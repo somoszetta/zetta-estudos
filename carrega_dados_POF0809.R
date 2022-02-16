@@ -2,6 +2,8 @@
 # Carregando Dados POF 2008-2009 -----------------------------------------------
 #-------------------------------------------------------------------------------
 
+#Link para download dos dados: https://www.ibge.gov.br/estatisticas/sociais/educacao/9050-pesquisa-de-orcamentos-familiares.html?=&t=o-que-e 
+
 # Script para carregar dados da POF 2008-2009, a partir dos dados brutos em txt
 
 # limpando ambiente
