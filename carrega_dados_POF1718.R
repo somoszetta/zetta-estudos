@@ -2,6 +2,7 @@
 # Carregando Dados POF 2017-2018 -----------------------------------------------
 #-------------------------------------------------------------------------------
 
+#Link para download dos dados: https://www.ibge.gov.br/estatisticas/sociais/educacao/9050-pesquisa-de-orcamentos-familiares.html?=&t=o-que-e 
 # Script para carregar dados da POF 2017-2018, a partir dos dados brutos em txt,
 # e usando os codigos disponibilizados pelo IBGE em Programas de Leitura
 
